@@ -1,0 +1,12 @@
+Semilla: 12345678 23456781 34567812 45678123
+Archivos: ch130.tsp pr144.tsp a280.tsp u1060.tsp d18512.tsp
+logs: true
+Algoritmo: TABU_2
+k: 5
+nIteraciones: 5000
+inicioEntorno: 8
+disminucionEntornoPorcentaje: 10
+progresionDisminucionEntorno: 10
+movimientosEmpeoramiento: 5
+tenenciaTabu: 10
+oscilamiento: 40

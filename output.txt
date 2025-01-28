@@ -1,0 +1,149 @@
+Tue Oct 29 08:47:27 CET 2024
+TABU_2
+k: 5
+nIteraciones: 5000
+inicioEntornoPorcentaje = 8
+disminucionEntornoPorcentaje = 10
+progresionDisminucionEntorno = 10
+movimientosEmpeoramientoConsecutivo = 5
+tenenciaTabu = 10
+oscilacionEstrategica = 40
+-----------------------------------
+
+Distancia recorrida: 9079.082431292254
+Nombre: ch130
+Comment: TSP
+Dimension= 130
+Semilla = 12345678
+Tiempo ejecucion(ns)= 172913900
+-----------------------------------
+
+Distancia recorrida: 101476.98091237625
+Nombre: pr144
+Comment: 144-city problem (Padberg/Rinaldi)
+Dimension= 144
+Semilla = 12345678
+Tiempo ejecucion(ns)= 140993500
+-----------------------------------
+
+Distancia recorrida: 6115.219153705834
+Nombre: a280
+Comment: drilling problem (Ludwig)
+Dimension= 280
+Semilla = 12345678
+Tiempo ejecucion(ns)= 133576300
+-----------------------------------
+
+Distancia recorrida: 1161303.9851781416
+Nombre: u1060
+Comment: Drilling problem problem (Reinelt)
+Dimension= 1060
+Semilla = 12345678
+Tiempo ejecucion(ns)= 176422400
+-----------------------------------
+
+Distancia recorrida: 2.5197726543766007E7
+Nombre: d18512
+Comment: Bundesrepublik Deutschland (mit Ex-DDR) (Bachem/Wottawa)
+Dimension= 18512
+Semilla = 12345678
+Tiempo ejecucion(ns)= 3631668500
+-----------------------------------
+
+Distancia recorrida: 9968.663011992085
+Nombre: ch130
+Comment: TSP
+Dimension= 130
+Semilla = 23456781
+Tiempo ejecucion(ns)= 87930500
+-----------------------------------
+
+Distancia recorrida: 153337.6186267826
+Nombre: pr144
+Comment: 144-city problem (Padberg/Rinaldi)
+Dimension= 144
+Semilla = 23456781
+Tiempo ejecucion(ns)= 88778500
+-----------------------------------
+
+Distancia recorrida: 5402.796641350155
+Nombre: a280
+Comment: drilling problem (Ludwig)
+Dimension= 280
+Semilla = 23456781
+Tiempo ejecucion(ns)= 93144400
+-----------------------------------
+
+Distancia recorrida: 1165341.7208568016
+Nombre: u1060
+Comment: Drilling problem problem (Reinelt)
+Dimension= 1060
+Semilla = 23456781
+Tiempo ejecucion(ns)= 135469500
+-----------------------------------
+
+Distancia recorrida: 2.5137328511126947E7
+Nombre: d18512
+Comment: Bundesrepublik Deutschland (mit Ex-DDR) (Bachem/Wottawa)
+Dimension= 18512
+Semilla = 23456781
+Tiempo ejecucion(ns)= 3564513800
+-----------------------------------
+
+Distancia recorrida: 11019.548731972776
+Nombre: ch130
+Comment: TSP
+Dimension= 130
+Semilla = 34567812
+Tiempo ejecucion(ns)= 69127100
+-----------------------------------
+
+Distancia recorrida: 164343.32662427606
+Nombre: pr144
+Comment: 144-city problem (Padberg/Rinaldi)
+Dimension= 144
+Semilla = 34567812
+Tiempo ejecucion(ns)= 75009400
+-----------------------------------
+
+Distancia recorrida: 4983.345133872624
+Nombre: a280
+Comment: drilling problem (Ludwig)
+Dimension= 280
+Semilla = 34567812
+Tiempo ejecucion(ns)= 76929000
+-----------------------------------
+
+Distancia recorrida: 1240679.1883275001
+Nombre: u1060
+Comment: Drilling problem problem (Reinelt)
+Dimension= 1060
+Semilla = 34567812
+Tiempo ejecucion(ns)= 98306500
+-----------------------------------
+
+Distancia recorrida: 2.5132882051989343E7
+Nombre: d18512
+Comment: Bundesrepublik Deutschland (mit Ex-DDR) (Bachem/Wottawa)
+Dimension= 18512
+Semilla = 34567812
+Tiempo ejecucion(ns)= 3648967700
+-----------------------------------
+
+Distancia recorrida: 11378.900286611663
+Nombre: ch130
+Comment: TSP
+Dimension= 130
+Semilla = 45678123
+Tiempo ejecucion(ns)= 77636400
+-----------------------------------
+
+Distancia recorrida: 160222.7239126402
+Nombre: pr144
+Comment: 144-city problem (Padberg/Rinaldi)
+Dimension= 144
+Semilla = 45678123
+Tiempo ejecucion(ns)= 82273100
+-----------------------------------
+
+Distanci
